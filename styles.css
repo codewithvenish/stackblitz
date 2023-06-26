@@ -9,20 +9,19 @@ body {
   margin: 0 auto;
   max-width: 60rem;
   line-height: 1.5;
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   color: #566b78;
-
 }
 header {
   background-color: #263d36;
-  background-image: url("");
+  background-image: url('https://drive.google.com/file/d/1a18T0NqgourVJ0nsx1Qy70lg3T_zRohj/view?usp=drive_link');
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
   line-height: 1.2;
   padding: 10vw 2em;
   text-align: center;
-  margin-bottom:2rem;
+  margin-bottom: 2rem;
 }
 header img {
   display: inline-block;
@@ -72,6 +71,6 @@ header p {
 }
 
 header p:hover {
-  background:  #e81c4f;
+  background: #e81c4f;
   color: white;
 }
